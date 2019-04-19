@@ -1,4 +1,7 @@
 # Final Exam Intro PHP
+
+Original repo with commit history located on my [portfolio/homework site](https://github.com/instagibby/sldavis/tree/master/src/wdv341/finalExam)
+
 ## Instructions:
 
 Your final project is to build a content processing application for a website of your own choice.  You may may choose what type of content or product your site will support.  Some examples include: products for sale, services, events, registrations, blogs, special notices, etc.  You are welcome to use an existing site that you have created or make a new site for this project.
